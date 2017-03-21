@@ -1,0 +1,28 @@
+{
+  "name": "react-kanban",
+  "version": "1.0.0",
+  "description": "> A digital Kanban board made with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Configurellc/React-Kanban.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Configurellc/React-Kanban/issues"
+  },
+  "homepage": "https://github.com/Configurellc/React-Kanban#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "pg": "^6.1.5",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.30.2",
+    "sequelize-cli": "^2.6.0"
+  }
+}
